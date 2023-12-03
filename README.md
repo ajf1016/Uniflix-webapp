@@ -34,18 +34,5 @@ UniFlix aims to create a seamless and convenient movie booking experience for st
 - **Hosting:** Firebase
 - **Version Control:** Git, GitHub
 
-## Installation 🛠️
-
-1. Clone the repository: `git clone https://github.com/your-username/UniFlix.git`
-2. Navigate to the project directory: `cd UniFlix`
-
-
-## Usage 🚀
-
-- Open the UniFlix web app.
-- Browse movie listings, watch trailers, and select a movie showtime.
-- If using Django, create a user profile to manage bookings and preferences.
-- Book tickets for your chosen showtime.
-- For administrators, access the admin panel to manage movie data and user accounts.
 
 
