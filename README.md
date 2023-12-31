@@ -24,7 +24,6 @@ UniFlix aims to create a seamless and convenient movie booking experience for st
 - **Trailer Showcase:** Watch the latest movie trailers and get excited about upcoming releases.
 - **Booking System:** Easily book tickets for your desired movie showtimes.
 - **User Profiles:** Create and manage your user profile, keeping track of your bookings and preferences.
-- **Admin Panel:** For administrators, manage movie listings, showtimes, and user accounts.
 
 ## Tech Stack 💻
 
